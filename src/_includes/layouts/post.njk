@@ -63,7 +63,7 @@ templateClass: tmpl-post
 					<ul class="post-tags-list">
 						{% for tag in visible_tags %}
 						<li>
-							<a href="/archive/#{{ tag | slugify }}/" class="post-tag">{{ tag }}</a>
+							<a href="/archive/#{{ tag | slugify }}" class="post-tag">{{ tag }}</a>
 						</li>
 						{% endfor %}
 					</ul>
