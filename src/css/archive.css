@@ -1,24 +1,40 @@
-.archive.posts-grid {
+.archive .posts-grid {
 	width: 100%;
-	display: grid;
 }
-.archive.posts-grid li {
-	padding: 1rem 0;
-}
-.archive.posts-grid li:not(:last-child) {
+.archive .posts-grid li:not(:last-child) {
 	border-bottom: var(--section-divider);
 }
-.archive.posts-grid li a {
+.archive .posts-grid li a {
 	display: block;
 	width: 100%;
 	height: 100%;
-	padding: 1rem;
+	padding: 1.5rem 1rem;
 }
-.archive.posts-grid li a img {
+.archive .posts-grid li a:hover {
+	color: var(--site-background);
+	background-color: var(--text);
+}
+.archive .posts-grid li a > * {
+	margin-top: 0;
+}
+.archive .posts-grid li a > *:not(:last-child) {
+	margin-bottom: 0.5rem;
+}
+.archive .posts-grid .post-item-top {
+	font-size: 0.9rem;
+	line-height: 1rem;
+}
+.archive .posts-grid .post-item-top .divider {
+	margin: 0 0.5rem;
+}
+.archive .posts-grid .post-item-top .description {
+	font-weight: 600;
+}
+.archive .posts-grid li a img {
 	width: 100%;
 	object-fit: cover;
 }
-.archive.posts-grid .archive-img-container {
+.archive .posts-grid .archive-img-container {
 	width: 30%;
 	height: 100%;
 	overflow: hidden;
@@ -74,10 +90,27 @@ button.filter-btn {
   padding: 0.25rem 0.5rem;
 }
 
-button.filter-btn.active,
-button.filter-btn:hover {
+.filter-controls button.filter-btn.active,
+.filter-controls button.filter-btn:hover {
 	color: var(--text);
 	background-color: var(--site-background);
+	transform: rotate(-3deg);
+}
+
+/* ARCHIVE PAGINATION */
+/* LOAD MORE BUTTON */
+.post-item.hidden {
+  display: none;
+}
+
+.load-more {
+  display: block;
+  margin: 2rem auto; /* Center the button */
+  padding: 0.5rem 1rem;
+}
+
+.load-more.hidden {
+  display: none;
 }
 
 /* FEATURED POSTS HOMEPAGE */

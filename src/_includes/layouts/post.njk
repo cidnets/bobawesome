@@ -40,14 +40,14 @@ templateClass: tmpl-post
 		
 		<div class="post-content">
 			<div class="post-title">
-			{% if title %}
-				<h1 class="title">{{title}}</h1>
-			{% endif %}
 			{% if description %}
 				<h3>{{description}}</h3>
 			{% endif %}
+			{% if title %}
+				<h1 class="title">{{title}}</h1>
+			{% endif %}
 			{% if date and author %}
-				<h5 class="date">{{date | myDateFormat}} <span>|</span> Written by {{author}}</h5>
+				<p class="date">{{date | myDateFormat}} <span>|</span> Written by {{author}}</p>
 			{% endif %}
 		
 		{% if tags %}
@@ -63,7 +63,7 @@ templateClass: tmpl-post
 					<ul class="post-tags-list">
 						{% for tag in visible_tags %}
 						<li>
-							<a href="/archive/{{ tag | slugify }}/" class="post-tag">{{ tag }}</a>
+							<a href="/archive/#{{ tag | slugify }}/" class="post-tag">{{ tag }}</a>
 						</li>
 						{% endfor %}
 					</ul>

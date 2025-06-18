@@ -52,9 +52,8 @@
 	font-size: 1.62em;
 }
 .post .post-title .date {
-	font-family: "Zilla Slab";
 	font-weight: 600;
-	font-size: 1rem;
+	font-size: 0.9rem;
 	margin: 0 auto 1rem;
 }
 .post .post-title span {

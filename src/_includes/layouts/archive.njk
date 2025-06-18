@@ -5,7 +5,7 @@ permalink: /archive/index.html
 ---
 
 <div class="wrapper">
-  <div class="content">
+  <div class="content archive">
 	<div class="archive-header">
 		<h1>{{ title }}</h1>
 		<p>Filter posts by tag or browse them all.</p>
@@ -21,12 +21,26 @@ permalink: /archive/index.html
       {% for post in collections.posts | reverse %}
         <li class="post-item" data-tags="{% for tag in post.data.tags %}{{ tag | slugify }} {% endfor %}">
           <a href="{{ post.url }}">
+			<div class="post-item-top">
+				<span class="date">{{ post.data.page.date | myDateFormat }}</span>
+				{% if post.data.description %}
+				<span class="divider">|</span>
+				{% endif %}
+				<span class="description">{{ post.data.description }}</span>
+			</div>
+			
             <h2>{{ post.data.title }}</h2>
-            <p>{{ post.data.page.date | myDateFormat }}</p>
           </a>
         </li>
       {% endfor %}
     </ul>
+
+    <button id="load-more-btn" class="load-more">Load More</button>
+
+  </div>
+</div>
+
+<script src="/js/archive-filter.js"></script>
 
   </div>
 </div>

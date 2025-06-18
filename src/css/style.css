@@ -56,10 +56,11 @@ button,
 	color: var(--text);
 	cursor: pointer;
 }
-button:hover,
-.button:hover {
+button:hover:not(.active),
+.button:hover:not(.active) {
 	background-color: var(--text);
 	color: white;
+	transform: rotate(3deg);
 }
 
 @media screen and (max-width: 576px) {
