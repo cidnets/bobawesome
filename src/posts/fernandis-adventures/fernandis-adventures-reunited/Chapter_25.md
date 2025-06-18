@@ -1,55 +1,49 @@
 ---
-date: 2018-01-13
-title: "Chapter 1: Surprise"
+date: 2018-01-14
+title: "Chapter 2: Turtle with Chicken Noodle Soup"
 
 ---
 
-In the midst of a violent thunderstorm stood a hooded man. He seemed to be completely dry despite the torrential downpour and unfazed by the flashing lightning and booming thunder. As the storm raged on, he awaited patiently in the vacant alleyway for his trusted messenger to appear.
+“Aaaaaaaahh!!!!” Fernando screamed in terror. However, instead of finding himself in heaven (or hell), Fernandi realized that he was on a comfy bed.
 
-“Show yourself,” croaked the hooded man.
+“Holy cow," Fernandi groaned in relief, taking in his cozy surroundings gratefully. "It was all a dream. Thank God.” Fernandi started crying with joy. At this point, a familiar-looking small green turtle, the size of a pencil box, waddled through the door with a bowl of soup on its shell. Fernandi stared at the turtle in disbelief. 
 
-Slithering out from the darkness after hearing the code words, the creature smiled, “It seems you have lost none of your hearing, Master.” The hooded man remained silent and stared ominously at his servant.
+“Unfortunately, it wasn’t a dream, bro,” the turtle said nonchalantly, handing Fernandi some chicken noodle soup. Taking the soup with trembling fingers, Fernandi slumped back into his bed, continuing to cry (not from happiness).
 
-Coughing nervously, the monster hissed, “Of course, the message. We have located him, master. He could have never hidden from us forever. He is completely oblivious and extremely vulnerable. He is no longer the man we once fought. We can strike him at anytime.”
+“It’s okay, dude. We can win this together,” Ryan the talking turtle encouraged.
 
-With that statement, the hooded man stepped toward his loyal follower, lightning illuminating his terrifying face, and growled, “Do not underestimate this man. You have failed many times before. This is your last chance. The attack begins now...and do not dare fail me again.”
+“No we can’t!” bawled Fernandi. “There’s nowhere to go. We have no one to turn to! And how am I even alive? Did you save me?”
 
-“As you wish,” Alejandri stuttered. Bowing in fear, the serpentine monster slid away without making a noise.
+Ryan nodded. “Yeah, you were toast without me. Luckily, I got Roberto’s SOS signal in time. I was able to swoop in and save the day.”
 
- ---
+“No, really, how did you save me?”
 
-It was a quiet evening, and Fernando was cheerfully munching on chicken nuggets as he watched his daily dose of Spanish soap operas. Although Fernando barely understood what he was watching, he liked how it looked dramatic. All in all, he was currently very content with life. Lounging on his sofa, his mind drifted off into his old life, how it was so hectic, incredible, dangerous, and spontaneous. Before he could continue his reverie, Fernando realized that he was out of sweet and sour sauce for his scrumptious chicken nuggets. With a sigh, Fernando paused the show, rolled out of his comfy couch, brushed off the stray crumbs on his pants, and trudged towards the kitchen to refill his dipping bowl of sweet and sour sauce.
+“I bombed the whole place,” Ryan said coolly.
 
-When he entered his kitchen, his jaw suddenly dropped open. Sitting in front of him was an old-looking, scraggly homeless man helping himself to Fernando's jar of sweet and sour sauce.
+“What? You bombed the whole place? How? And how did I get out alive?”
 
-“What! Who are you? How did you get in here? And why are you eating my sauce?!” Fernando shouted. Fernando then looked more closely at the old man eating the condiment. His face seemed familiar; his features distinct: thick black-framed glasses, dark Elvis-styled hair, and an extremely faded Sonic T-shirt.
+“Everywhere you went, Roberto rigged the place up with magical explosives just for an occasion like this, and when he gave you that invisibility spell, he also made you invulnerable against the blast. Where is Roberto anyway?”
 
-Fernando staggered back in horror. “No. It can’t be," he stammered. "You’re not supposed to be here! That part of my life is over. I’m not the man you used to know. You have to leave.” The intruder continued to calmly eat the sweet and sour sauce, now scraping the sides of the jar noisily with his spoon as Fernando eyes bugged out in shock.
+Fernandi looked down in shame, “He’s gone. He died when my house blew up.”
 
-After finishing the jar of saucy goodness, the squalid man put the spoon down with a clatter, and looked Fernando right in the eye, “Fernandi, you’re in danger." Sauce was dripping down his solemn face. "We need to leave now.”
+“Wow...we really are screwed then,” Ryan said, “Let’s get going. We need to gear up and take out the threat once and for all.”
 
-Fernando jumped up and down in rage, screaming, “That’s not my name! And there’s no way that they could have found me. I’ve been covering my traces for years. Even the NSA doesn’t know that I exist! I have gone incognito in Russia, France, Japan, Brazil, Congo, and even Antarctica with no signs of disturbances. They probably think I’m dead!” The old man sighed exasperatedly and tossed a manila folder at Fernando. Cautiously, Fernando opened the folder, only to see hundreds of pictures of his life being documented.
+“Gear up? We can’t do that, Ryan. I’m not who you think I am anymore. I know you and I have defied death countless times, but I don’t have that ability anymore. I am no longer a drunk, almost-naked, homeless man with incredible skills of defeating the odds and evil villains. Those days are behind me. Besides, didn’t you kill them all with that bomb? Let’s just get out of here and hide somewhere. I know some places.”
 
-Fernando gasped, “This is impossible! There’s no way! How… How…”
+“That’s not an option anymore, man. Roberto has been hiding your trail ever since ‘The End’. Without him, there is nothing to hold them back. Also...never mind. The point is that we need destroy these forces of evil, just like old times.”
 
-“They have eyes everywhere, and they use methods that you can’t hide from. I have been clouding your footsteps and traces ever since your retirement as best as I could. We have to leave now, Fernandi. I’ve used all my strength to form a portal to get to Earth. I’m not leaving you here to die. Besides, you make the best nachos.”
+“You’re holding something back. What is the real reason we have to do this?”
 
-Dejected and in shock, Fernando nodded somberly, “After all these years...I thought that I was successfully hiding from this evil force.” Slamming his fist on the table, his eyes blazed with agony and despair. “How much time do we have?”
+“Well, since your retirement, Roberto knew that The Dark Wizard would come back stronger than ever, and when he did, you would be the first one he goes after. After you… the world.” Fernandi dropped to the floor.
 
-“That’s the spirit,” Roberto the Wizard beamed as he looked at his G-Shock watch, “Hmm...actually, to answer your question, we have no time.”
+“The Dark Wizard is still alive! And he wants to take over the world? Just great. Just great,” Fernandi sighed, pacing back and forth, “I don’t think we can do this alone. Is the rest of the group available?”
 
-“What?!?!”
+Pulling a laptop out of his shell, Ryan said, “I think it’s just us. The rest of them are stuck in Oz. We’re on our own.” Fernandi rubbed his face with his hands and took a deep breath.
 
-An explosion ripped through Fernando’s house blowing both men towards the ground. Roberto, who managed to partially block the detonation with a force field, seemed to take the brunt of the blow. He laid on the ground unmoving, blood and leftover sweet and sour sauce streaming from his mouth.
-	
-“Roberto!!! Come on, man. Pull through. Let’s get out of here.” Roberto looked up and smiled wanly.
+“Okay. Let’s do this. Let’s do this for Roberto. Let’s go kick some butt, one last time.”
 
-“Go on without me. I’ve given you temporary invisibility. Find Ryan and the others. You must win this battle, Fernandi...the world depends on it.” And with a last gasp of breath, Roberto closed his eyes and went limp, his body magically fading away into the air. Without time to mourn, Fernando dashed out of the house only to be confronted by an army of monsters. Adrenaline pumping through his veins, Fernandi utilized his temporary invisibility to sneak past the congregation of devastating creatures (which included Twinkie giants and giant gorillas). Flashbacks of Fernandi’s past came pouring back: slaying monsters, defeating villains, defying death.
+Ryan smiled and pointed with gusto, "To the Batmobile!"
 
-Suddenly, out of nowhere, a blur flashed out of a bush tackling the invisible Fernandi.
+"We have a Batmobile?"
 
-“Well, well, well. Look what we have here,” Alejandri snarled as he wrapped Fernandi up into a tight coil, “Trying to sneak around my army like a coward as always. You’ve grown weak, Fernandi; you seem to have forgotten that I have an excellent sense of smell.”
-
-Struggling to escape, Fernandi spit back, “It’s just like the old times, Alejandri, and your ugly face hasn’t changed a bit.”
-
-“Fighting till the end, I see. Well, this really is the end, Fernandi.” Alejandri's incisors gleamed in the moonlight, and he lunged in for the kill.
+"Of course we don't. Who do you think I am? A multibillionaire? Let's go to the shed and get ready for our awesome quest to save the world."

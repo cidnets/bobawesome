@@ -1,5 +1,5 @@
 ---
-date: 2012-04-05
+date: 2012-04-04
 title: "Chapter 2: The Hot Cheeto of My Eye"
 tags: ["Era 1"]
 ---

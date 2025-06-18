@@ -1,67 +1,55 @@
 ---
-date: 2018-01-13
-title: "Chapter 5: Farts"
+date: 2018-01-17
+title: "Chapter 4: Weirdly Shaped Chicken Nuggets"
 
 ---
 
-Fernandi woke groggily, finding himself strapped to a chair. Sitting next to him was Ryan, who was also strapped to a chair. The turtle was happily smacking on some gum.
+"Dude! How did you get a Lamborghini? I thought you said you weren't a multibillionaire! This is awesome!" Fernandi exclaimed as he jumped into the convertible, stroking the leather seats and pressing the shiny buttons in awe.
 
-"Where are we? What happened? Are we dead? Can I have some gum?" Fernandi spewed at Ryan.
+"I never said I wasn't a multimillionaire," Ryan explained slyly,  "Well, you know the nuggets the King of Oz promised us? They weren't chicken nuggets. They were gold nuggets. It helped me buy all of this cool stuff. Now, let's get some essentials." And the two buddies got to work. Fernandi and Ryan grabbed rocket launchers, nacho cheese, machetes, granola bars, C4, jars of peanut butter, spy equipment, explosive gum, assault rifles and many more items. When everything was fully loaded and packed, the duo jumped into the car.
 
-" In the Dark Magician's lair.  We blacked out from explosion. Not dead yet. Have nothing on me right now," Ryan answered calmly.
+"Uh. What's the plan of attack?"
 
-Fernandi struggled against the confines of his chair.  "We need to get out of here, Ryan! The world depends on it!"
+"I dunno. You're the leader. I'm just a turtle." Fernandi massaged his forehead. This was going to be harder than he thought.
 
-"Fighting till the end as always. Refusing to give up even when the odds are stacked against. Completing impossible feats," boomed a faraway voice. "Unfortunately, it seems your luck has run out my friend. You have no more allies to rescue you and no more tricks up your sleeve. It is the end of the world and the end of you."
+"What would the old me do?" Fernandi pondered, trying to find the best plan of attack. "Besides being naked and drunk."
 
-"Who says I don't have any more tricks?" Fernandi yelled defiantly, "I stopped you once before. There's no reason why I won't stop you now. It'll be a walk in the park!"
+"Well, you did like eating chicken nuggets," Ryan added helpfully.
 
-Stepping into the light, the Dark Magician snickered, "It doesn't look like you'll be doing any stopping behind those magical restraints."
+"Hmmm,” Fernandi said, ignoring Ryan’s input. “I don't think we ever even needed a plan before. We just waited for trouble to come to us." Suddenly, the ground began to rumble violently. Before Fernandi and Ryan could react, the wall was smashed open.
 
-“Anyway, it seems you have already met my latest creation! Say hello again, BlackStar!" the Dark Magician announced as the girl swooped into view. "I used your own friend Trisha's DNA to create my own sidekick! She comes in handy when I need to get a task done. I also taught her some dark magic, which amplified her power greatly."
+"Right on cue," Ryan commented. Jumping out of the car, Fernandi armed himself with a bazooka while Ryan loaded a shotgun. Quickly, both aimed their weapons at the incoming threat. As the cloud of dust gradually cleared, a feminine looking figure seemed to be floating in front of them. When fully visible, a vicious looking girl stomped forward, managing to still look very threatening with her sleek knee-high boots. She was wearing a black skirt and an accompanying form-fitting crop top exposing her rock hard six-pack - Fernandi felt intimidated and glanced at his own flabby stomach. Despite the simplicity of her attire, it radiated power and violence.
 
-"You cloned her?" Fernandi clarified.
+"Dude, isn't that Trisha?” Fernandi whispered, jabbing Ryan’s shell. “And didn’t you say she was stuck in Oz?" He eyed the dangerous Trisha look-alike. "I think she's wearing a different outfit, too."
 
-"Yes, I cloned her, you moron," the Dark Magician sighed. "Anyway, the only reason I have kept you alive is for you to witness the destruction of your planet."
+"She is stuck in Oz! There's no way she could be here on Earth. All the portals were destroyed after we left!" Ryan stated in puzzlement.
 
-The Dark Magician cackled and pointed to the thousands of suddenly visible TV screens surrounding them. "Look at the screens, Fernandi. Do you see all the resources I'm sucking out of this planet? I've decided that this planet is too boring to take over. Humans here are too stupid and violent. Instead, I'm taking everybody’s energy and resources to create myself a portal back to Ozland so I can take it over once and for all!"
+"Well, if that is her, we’ll probably need her superpowers in our quest."
 
-"I won't let you!" Fernandi screamed, pushing his restraints with all his strength.
+"I think you should ask her soon if she’s coming with us. She doesn't look too happy. Do you think she's under some kind of spell, assuming that it is her?" However, before Fernandi could even ask the alien, red laser bolts blazed out of the girl's eyes destroying everything in its path. Barely leaping out of the way in time, Fernandi and Ryan gaped in shock at the obliterated Lamborghini, which now bore a striking resemblance to a crushed soda can.
 
-"Of course you won't," the Dark Magician chuckled, "Your presence here is an annoyance now. Kill them." With that order, the Dark Magician glided away, laughing in glee at the death of his enemies and imminent victory that would occur within seconds. BlackStar smiled evilly and floated forward.
+"There goes all our weapons and our only mode of transportation," Ryan said, gloomily looking at the smoking heap of metal.
 
-"What do we do?" Ryan squeaked and farted, who finally realized the gravity of the situation and was starting to have intestinal problems. Fernandi's mind raced with options and ideas, none which made sense or was helpful.
+"It's us, Trisha! Fernandi and Ryan! Don't kill us, please!" Fernandi begged. Unfortunately, the Trisha look-alike did not comply. Firing laser bolt after bolt from her  hands, Fernandi and Ryan took cover behind a huge golden statue of a turtle.
 
-"I don't know!" Fernandi cried desperately. Then it clicked.
+"This statue was dedicated to my great-grandfather! Do you know how long it took to make this?" Ryan complained as a bolt blew off the statue's head.
 
-"Um. Ryan, are you still chewing the gum that was from my pocket?"
+"I think that's the least of our troubles," Fernandi yelled back. "Do you have any weapons on you?"
 
-"Possibly," Ryan said sheepishly.
+"Nope. I dropped my gun over there, and all the other weapons are probably destroyed. Besides, I think she's bulletproof."
 
-"Then, swallow it! I think you might be able to blow off the restraints with your explosive farts!" Fernandi whispered urgently. Ryan made a disgusted face, but did as he was told. "Hurry up! She's getting closer!"
+"Alright, here's the plan. I throw you at her to get her attention. Then, I'll charge her with this golf club I found to distract her while you find something to kill her with. Good? Good.”
 
-"Then, stall her!" Ryan raged as he made a constipated-looking face. However, stalling was not necessary, for at that moment, Ryan flatulated. The fart reverberated across the whole castle, shattering glass and causing everyone to drop to the ground. Unfortunately, Ryan still sat stuck in the chair.
+"Wait. I don't think that's a good id--" Before Ryan could protest, Fernandi forcefully slung his turtle and only ally at the flying, firing alien girl. The Trisha look-alike easily dodged the soaring turtle and flew at breakneck speed right into Fernandi. Fernandi didn't even have time to raise his golf club. Pinning the helpless man onto the wall with one hand, the Trisha look-alike reared back her glowing fist for the finishing blow.
 
-"Well, I guess this is the end, buddy," Fernandi sighed.
+Kicking and choking vigorously, Fernandi cried, "Help!" Just in the nick of time, a massive laser beam blasted the murderous girl to the ground. In the distance, stood Ryan in an IronTurtle suit.
 
-"I don't think so!" Ryan yelled, letting out turtle-warrior cry. In that instant, an explosion blasted Ryan and Fernandi from their seats, as well as knocking out any nearby guards. BlackStar, who managed to block the deadly fart explosion, glared at the two free prisoners in shock. Raising her fists, she rained lasers at them, aiming to kill. Relying on his incredible reaction speed and Ryan's shell, Fernandi did a 360 degree black flip rebounding the lasers right into BlackStar's face and ultimately knocking her out. Still holding Ryan, Fernandi sprinted towards the Dark Magician, who was currently unaware of the escape and about to step through the portal to Oz.
+"I remembered that I bought this suit on eBay. Good thing, huh? Hey, did you know that they sell weirdly shaped chicken nuggets on eBay?"
 
-"Give back our resources!" Fernandi yelled. With all his might, Fernandi flung himself against the machine and the Dark Magician.
+"I did not," Fernandi coughed, rubbing his neck, "Now, knock her out!"  Before Ryan could fire another missile or laser, the girl shot into the air, flying at supersonic speed.
 
-The Dark Magician raised his arm in the air stopping Fernandi and Ryan midair. "Valiant try. But it is now time for you to di--!" Before the Dark Magician could finish speaking, Fernandi chucked Ryan right into the Dark Magician's face.
+"Where did she go?" Fernandi squealed as he picked up a golf club.
 
-Not expecting it, the Dark Magician fell to the ground and knocked over his fancy world-destroying laptop. Immediately, everything started to flash red.
+"I don't know. She's not showing up on my sensors. She’s over 9000 feet away. She must have gone really far up," Ryan replied. "Wait, something's coming. It's a meteor! Wait, no.  She’s flying right at us! She’s going to blow the entire place up!”
 
-"Returning All Resources" blared across the sound system.  
-
-"NOOOO!!" bellowed the Dark Magician, reaching for his laptop to cancel the order.
-
-"Oh no, you don't!" cried Fernandi, lunging at the fallen Dark Magician. Ryan, who was still farting, jumped onto wrestling match biting everything that was not Fernandi. A great struggle ensued; both sides at a deadlock. Knowing that he and Ryan could not keep up the wrestling forever, before the Dark Magician unleashed a spell or the guards came back, Fernandi screamed, "ONE MORE FART, RYAN! SHOOT US INTO THE PORTAL!"
-
-"I can't!" Ryan grunted. The Dark Magician, realizing what was happening, became more vigorous in his wrestling, only managing to shoot sparks from his hands due to his lack of focus.
-
-"We can't hold him much longer! You need to fart one more time! Do it for your smashed golden great-grandfather!" Fernandi gasped as the Dark Magician punched him in the gut.
-
-Channeling the inspirational statement, Ryan farted.
-
-And with that, all three were launched through the closing portal.
+"Wait, what? How?" Fernandi babbled incredulously as he squinted at the sky, “Is she like Goku?” Not bothering to answer, Ryan fired up his suit and grabbed Fernandi, flying them as far away as possible from the origin of impact. As soon as the powerful ball of energy touched the ground, an explosion equivalent to ten nuclear bombs ripped through the air. Using all of the power in the suit as a forcefield, Ryan and Fernandi braced for impact. Both fainted. 

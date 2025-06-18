@@ -1,55 +1,26 @@
 ---
-date: 2018-01-13
-title: "Chapter 4: Weirdly Shaped Chicken Nuggets"
+date: 2018-01-16
+title: "Chapter 3: The Creation"
 
 ---
 
-"Dude! How did you get a Lamborghini? I thought you said you weren't a multibillionaire! This is awesome!" Fernandi exclaimed as he jumped into the convertible, stroking the leather seats and pressing the shiny buttons in awe.
+"Imbecile!" the voice snarled, and Alejandri slammed to the ground, writhing in pain. His body was covered in burns and bruises.
 
-"I never said I wasn't a multimillionaire," Ryan explained slyly,  "Well, you know the nuggets the King of Oz promised us? They weren't chicken nuggets. They were gold nuggets. It helped me buy all of this cool stuff. Now, let's get some essentials." And the two buddies got to work. Fernandi and Ryan grabbed rocket launchers, nacho cheese, machetes, granola bars, C4, jars of peanut butter, spy equipment, explosive gum, assault rifles and many more items. When everything was fully loaded and packed, the duo jumped into the car.
+"Please, Master! I don't know what happened. The whole place just exploded! Just give me another chance! I know where he went! He went to the turtle! He has no one else."
 
-"Uh. What's the plan of attack?"
+"You think I don't know that!" the Dark Wizard roared. "It is no matter. I knew you would fail anyway. I have sent in my greatest creation to destroy this pest and his stupid turtle. He shall no longer torment me with his presence. He will pay for what he has done to me and my former plans of world domination." Then, the Dark Wizard, underneath his pitch black hood, began to smile.
 
-"I dunno. You're the leader. I'm just a turtle." Fernandi massaged his forehead. This was going to be harder than he thought.
+"Actually, I will torture this fool till his death. He will be brought to me and be forced to watch his whole planet be taken over. I am a genius!" The Dark Wizard gave his best evil laugh, causing everyone in the castle to get the chills and want to hide in the corner and cry. "Then, I will kill him."
 
-"What would the old me do?" Fernandi pondered, trying to find the best plan of attack. "Besides being naked and drunk."
+"But, Master. I don't think that is a good idea. The hero always escapes and saves the day someh-" Before Alejandri could finish his insightful thought, he found himself dangling over a pit of lava.
 
-"Well, you did like eating chicken nuggets," Ryan added helpfully.
+"Noooooo! Please, Master! I was just kidding! It's a brilliant idea! Let me live! I will do anything! Ple-e-e-ase!" The Dark Wizard looked over at his bathroom and scrunched his nose.
 
-"Hmmm,” Fernandi said, ignoring Ryan’s input. “I don't think we ever even needed a plan before. We just waited for trouble to come to us." Suddenly, the ground began to rumble violently. Before Fernandi and Ryan could react, the wall was smashed open.
+"In that case, you may live. But you are now dismissed from your commanding position and I do not want to see you again."
 
-"Right on cue," Ryan commented. Jumping out of the car, Fernandi armed himself with a bazooka while Ryan loaded a shotgun. Quickly, both aimed their weapons at the incoming threat. As the cloud of dust gradually cleared, a feminine looking figure seemed to be floating in front of them. When fully visible, a vicious looking girl stomped forward, managing to still look very threatening with her sleek knee-high boots. She was wearing a black skirt and an accompanying form-fitting crop top exposing her rock hard six-pack - Fernandi felt intimidated and glanced at his own flabby stomach. Despite the simplicity of her attire, it radiated power and violence.
+"But my family has served you generations, sir! We have been your most loyal followers." The Dark Wizard reopened the lava pit threateningly.
 
-"Dude, isn't that Trisha?” Fernandi whispered, jabbing Ryan’s shell. “And didn’t you say she was stuck in Oz?" He eyed the dangerous Trisha look-alike. "I think she's wearing a different outfit, too."
+Alejandri gulped and bowed. "As you wish, Master."
 
-"She is stuck in Oz! There's no way she could be here on Earth. All the portals were destroyed after we left!" Ryan stated in puzzlement.
+"Now go clean this whole place up. I want everything to be spotless before my world domination plans are complete." Turning towards his shining ball of omnipotence, the Dark Wizard took off his hood and grinned. "Nothing can stop me now."
 
-"Well, if that is her, we’ll probably need her superpowers in our quest."
-
-"I think you should ask her soon if she’s coming with us. She doesn't look too happy. Do you think she's under some kind of spell, assuming that it is her?" However, before Fernandi could even ask the alien, red laser bolts blazed out of the girl's eyes destroying everything in its path. Barely leaping out of the way in time, Fernandi and Ryan gaped in shock at the obliterated Lamborghini, which now bore a striking resemblance to a crushed soda can.
-
-"There goes all our weapons and our only mode of transportation," Ryan said, gloomily looking at the smoking heap of metal.
-
-"It's us, Trisha! Fernandi and Ryan! Don't kill us, please!" Fernandi begged. Unfortunately, the Trisha look-alike did not comply. Firing laser bolt after bolt from her  hands, Fernandi and Ryan took cover behind a huge golden statue of a turtle.
-
-"This statue was dedicated to my great-grandfather! Do you know how long it took to make this?" Ryan complained as a bolt blew off the statue's head.
-
-"I think that's the least of our troubles," Fernandi yelled back. "Do you have any weapons on you?"
-
-"Nope. I dropped my gun over there, and all the other weapons are probably destroyed. Besides, I think she's bulletproof."
-
-"Alright, here's the plan. I throw you at her to get her attention. Then, I'll charge her with this golf club I found to distract her while you find something to kill her with. Good? Good.”
-
-"Wait. I don't think that's a good id--" Before Ryan could protest, Fernandi forcefully slung his turtle and only ally at the flying, firing alien girl. The Trisha look-alike easily dodged the soaring turtle and flew at breakneck speed right into Fernandi. Fernandi didn't even have time to raise his golf club. Pinning the helpless man onto the wall with one hand, the Trisha look-alike reared back her glowing fist for the finishing blow.
-
-Kicking and choking vigorously, Fernandi cried, "Help!" Just in the nick of time, a massive laser beam blasted the murderous girl to the ground. In the distance, stood Ryan in an IronTurtle suit.
-
-"I remembered that I bought this suit on eBay. Good thing, huh? Hey, did you know that they sell weirdly shaped chicken nuggets on eBay?"
-
-"I did not," Fernandi coughed, rubbing his neck, "Now, knock her out!"  Before Ryan could fire another missile or laser, the girl shot into the air, flying at supersonic speed.
-
-"Where did she go?" Fernandi squealed as he picked up a golf club.
-
-"I don't know. She's not showing up on my sensors. She’s over 9000 feet away. She must have gone really far up," Ryan replied. "Wait, something's coming. It's a meteor! Wait, no.  She’s flying right at us! She’s going to blow the entire place up!”
-
-"Wait, what? How?" Fernandi babbled incredulously as he squinted at the sky, “Is she like Goku?” Not bothering to answer, Ryan fired up his suit and grabbed Fernandi, flying them as far away as possible from the origin of impact. As soon as the powerful ball of energy touched the ground, an explosion equivalent to ten nuclear bombs ripped through the air. Using all of the power in the suit as a forcefield, Ryan and Fernandi braced for impact. Both fainted. 
