@@ -1,0 +1,24 @@
+---
+layout: layouts/base.njk
+templateClass: tmpl-home
+---
+
+<div class="wrapper home">
+	<div class="content">
+		<section class="featured-posts">
+			{% include "featured-posts.njk" %}
+		</section>
+		<section>
+			{{ content | safe }}
+		</section>
+		<section id="about" class="section">
+			{% set my_content %}{% include "about.md" %}{% endset %}
+			{{ my_content | markdownify | safe }}
+		</section>
+		<section class="random-post section">
+			<h1>Don't know where to start?</h1>
+			<h2>Let me surprise you!</h2>
+			<button id="random-post-button" class="random-post-button">Take Me to a Random Post!</button>
+		</section>
+	</div>
+</div>

@@ -1,0 +1,70 @@
+.random-post-button {
+	margin: 1rem 0;
+	padding: 0.25rem 1rem;
+	max-width: 160px;
+}
+
+.post .content {
+	padding: 3rem 1.5rem;
+}
+.post .post-title > * {
+	text-align: center;
+	width: fit-content;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.post .title,
+.post .post-title h3 {
+	margin-bottom: 0.5rem;
+	padding: 0 1rem;
+	background-color: var(--text);
+	color: var(--site-background);
+	font-family: "Zilla Slab";
+	transform: none;
+}
+.post .title {
+	font-size: 2.62em;
+}
+.post .post-title h3 {
+	margin-top: 0;
+	font-size: 1.62em;
+}
+.post .post-title .date {
+	font-family: "Zilla Slab";
+	font-weight: 600;
+	font-size: 1rem;
+	margin: 0 auto 1rem;
+}
+.post .post-title span {
+	margin: 0 1rem;
+}
+.post .post-title .divider {
+	width: 25%;
+	margin: 1.5rem auto;
+	border-bottom: var(--section-divider);
+}
+.post p {
+	text-indent: 1.5em;
+}
+.post .content p:has(img) {
+	margin: 1rem auto;
+}
+.post .content p img {
+	width: 75%;
+	max-width: 500px;
+	margin: 0 auto;
+}
+.post .content h1,
+.post .content h2,
+.post .content h3,
+.post .content h4,
+.post .content h5 {
+	text-align: center;
+}
+
+@media screen and (max-width: 576px) {
+	.post .content {
+		padding: 3rem 1rem;
+	}
+}

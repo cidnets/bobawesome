@@ -1,0 +1,106 @@
+:root {
+	--back-to-top-bttn: 3rem;
+}
+
+.navbar {
+	width: var(--content-width);
+	max-width: var(--content-max-width);
+	margin: 24px auto -2px;
+	display: grid;
+	grid-template-columns: auto 1fr;
+	align-items: center;
+}
+.navbar a:visited {
+	color: var(--text);
+}
+
+.logo {
+	height: 100%;
+	display: flex;
+	margin-right: 1rem;
+}
+.logo img {
+	max-height: 175px;
+	display: block;
+	margin-top: auto;
+}
+
+.navbar-right {
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-end;	
+}
+
+.site-title {
+	width: fit-content;
+	padding: 1rem 0;
+	transform: rotate(-4deg);
+	color: var(--text);
+}
+.site-title h1,
+.site-title h5 {
+	width: fit-content;
+	margin: 0;
+	font-family: "Zilla Slab";
+}
+.site-title h1 {
+	font-size: 2em;
+}
+.site-title:hover {
+	transform: rotate(0deg);
+}
+
+.nav-links {
+	 display: flex; /* <-- THIS IS THE MAGIC LINE! */
+	 flex-wrap: wrap; /* Good practice: lets links wrap to the next line on small screens */
+     align-items: center;
+}
+.nav-links a:not(:first-child) {
+	margin-left: -2px;
+}
+.nav-links a {
+	padding: 0.25rem 1rem;
+	border: var(--border);
+}
+.nav-links a:hover {
+	border-color: white;
+}
+.nav-links a:hover,
+.nav-links a.active {
+	background-color: var(--text);
+	color: white;
+	transform: rotate(3deg);
+}
+.nav-links a.active:hover {
+	border-color: var(--text);
+	background-color: var(--text);
+	color: white;
+	cursor: default;
+}
+
+/* Hide the hamburger and checkbox by default on wider screens */
+.hamburger {
+  display: none;
+}
+
+.menu-toggle {
+  display: none;
+}
+
+#back-to-top-bttn {
+	position: fixed;
+	width: var(--back-to-top-bttn);
+	height: var(--back-to-top-bttn);
+	bottom: 1rem;
+	right: 1rem;
+	padding-top: 0.25rem;
+	z-index: 102;
+	opacity: 0.6;
+}
+#back-to-top-bttn p {
+	margin-top: -0.25rem;
+}
+#back-to-top-bttn:hover {
+	opacity: 1;
+}

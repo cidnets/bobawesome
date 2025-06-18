@@ -1,0 +1,7 @@
+:root {
+	--site-background: #E0E1DD;
+	--text: #0d1b2a;
+	
+	--border: 2px solid var(--text);
+	--section-divider: 2px dashed var(--text);
+}

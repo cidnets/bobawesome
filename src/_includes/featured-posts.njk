@@ -1,0 +1,23 @@
+    <h1>Featured Posts</h1>
+	<ul class="homepage posts-grid">
+      {%- for post in collections.posts.slice(0,4) -%}
+      <li {% if page.url == post.url %} aria-current="page"{% endif %}>
+         <a href="{{ post.url }}">
+           <div class="date">
+             {{ post.data.page.date | myDateFormat }}
+           </div> 
+           <h1>
+             {{ post.data.title }}
+           </h1>
+		   {% if post.data.description %}
+		   <h3>
+				{{ post.data.description }}
+			</h3>
+			{% endif %}
+         </a>
+      </li>
+      {%- endfor -%}
+    </ul>
+    <div>
+      <a href="/archive" class="button archive-button">View all posts</a>
+    </div>

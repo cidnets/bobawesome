@@ -1,0 +1,96 @@
+---
+date: 2012-09-10
+title: "Chapter 18: Miraculous Turtle Spit"
+tags: ["Era 1"]
+---
+
+
+It was nighttime and the battle ground was cleared, but Ryan still stood stunned as he gaped at the motionless, bloody, and naked Fernandi lying on the ground. Then in anger and pure stubbornness, Ryan lunged and chomped Fernandi right in the rear end. Fernandi shot from the ground screaming bloody murder. 
+
+Filled with foul language (censored), Fernandi yelled at Ryan, “Why did you do that? Can’t I die in peace?!” Then Fernandi noticed that his wound was gone. “What the..., I’m healed!” Fernandi stuttered. Fernandi looked at the equally amazed and confused Ryan. Then Fernandi’s eyes shone. “That’s it! Ryan I think you’re the one who saved me.” Fernandi cried.
+
+“What? All I did was bite you.” Ryan said puzzled. 
+
+“I’ll show you,” Fernandi explained, “your spit cure other people’s injuries.”
+
+“That’s ridiculous,” Ryan said skeptically, “I’m just a regular talking snapping turtle.” 
+
+“I’ll prove it to you,” Fernandi replied. With that said Fernandi pulled out sharp looking stick and stabbed himself into the stomach. Fernandi gasped in pain as he grunted, “Spit on me.”
+
+Ryan spit onto Fernandi’ face.
+
+“On my wound, you idiot,” Fernandi squealed, as blood flowed out nonstop. Ryan spit again, but this time on the gaping wound. Then, miraculously, Fernandi’s wound started healing. In about 5 seconds, the wound was gone without a trace. 
+
+Ryan stared at Fernandi’s stomach and commented, “Three things. One, did you really had to stab yourself. I think a bullet to the chest is enough for anybody. Two, Wow, I have super spit. Three, Put on some clothes.” Fernandi obeyed as he tried to create a tree skirt. 
+
+Meanwhile... Alejandri was lunging at the cornered guinea pigs (actually Robin, David, and Bill). Bill turned around terrified as he tried to dig away. Before Alejandri could even lay a tooth on the furry rodents, Bill let loose a loud fart. Alejandri, instinctively stood up to get away from the smell. Unfortunately, Alejandri forgot about the low shelf above him and got smacked on the head. Alejandri slithered back in pain. While Alejandri was rubbing his swollen head, Robin charged at his predator. With quick and agile slashes, Alejandri had no chance of defeating Robin the guinea pig. Fangs were no match to claws. Finally, with a loud screech, Robin tackled the cobra chicken right off the stairs. The guinea pigs celebrated by eating some celery on the kitchen floor. Unfortunately, their victory was short-lived. 
+
+The doors blasted open as a beat-up looking and angry Alejandri yelled, “Get them!!!!” Gorillas, penguins, and pastries alike charged at the tiny guinea pigs.
+
+“Split up!” David screamed as he scurried away as fast as his tiny legs could take him.
+
+Meanwhile... Fernandi and Ryan were walking towards the impenetrable castle.
+
+“Since the wall is now guarded by flying, shooting, killing penguins, we should try to sneak into the castle.” Ryan said as he studied the huge walls.
+
+“What do you think, Fernandi? How do we do it? Fernandi?” Ryan asked. There was no reply. The turtle turned around and found Fernandi gorging himself with some pink apples.
+
+“Huh, did you say something?” Fernandi asked with his mouth full of chewed fruit, “I was eating these delicious apples.” Fernandi continued stuffing apples into his already overfilled mouth.
+
+“Uh, I don’t think you should be eating random pink fruit in a witch’s garden,” Ryan said. 
+
+“What’s the worst that could happen?”  Fernandi retorted as chewed fruit fell from his mouth, “Try some. It’s delicious.” He continued to hungrily gulp down pink apples like popcorn.
+ 
+Ryan sniffed at the bright pink apple and his eyes widened in surprise. With surprising speed, Ryan tackled Fernandi in the stomach, who was chomping away, and screamed, “Spit it out! Spit it out! It’s The Apples of Pink and Painful Death!” Suddenly, Fernandi started barfing pinkish slime out his mouth uncontrollably. His body swelled up into a big pink man with blisters covering him everywhere. Hair started dropping off his body and Fernandi trembled in excruciating pain.  That wasn’t all, in addition to a very painful death, the side effects of eating The Apples of Pink and Painful death caused hallucinations and insanity. Fernandi laughed and sang “Elmo’s World” as he slowly started dying. Ryan stared once again at his dying friend and panicked. His spit! Ryan started spitting all over Fernandi as fast as he could. He spit till he could spit no more, till his mouth was dry as a coal. But it wasn’t enough. Where the spit landed, new blisters formed over the healed skin. Ryan cursed pink apples and Fernandi’s stupidity and did what no turtle should have. He gathered as much spit a snapping turtle could contain in its mouth (which is a lot), pried the shuddering and dying Fernandi’s mouth open, and ... put his lips on him and spit. Fernandi gurgled and shook, but Ryan clamped Fernandi’s mouth tight with his legs. Soon, the turtle spit coursed through Fernandi’s veins and Fernandi started to heal back to his regular self. 
+
+Once Fernandi was all healed up, he said, “Let’s pretend this never happened.” Ryan agreed.
+
+Meanwhile... David (the guinea pig) was scurrying away from the evil pastries. Soon David found himself trapped in the castle kitchen. He hid under a cupboard and shuddered in fear. He farted. Fear did that to him and the squishy celery he ate recently wasn’t helping him either. More farts made the air seem particularly stuffy. More farts. After moments of loud bursts, David couldn’t take it. He released the door quickly, and the vile gas floated out. The hamster-hungry pastries whipped around facing the terrified (and farting) guinea pig ready to devour it. Then, David saw a beautiful, scrumptious, creamy, and lip-smacking chocolate donut the size of an elephant right in front of him. David’s eyes shone in amazement and leaped at the unsuspecting donut. In minutes the laid nothing but crumbs left from the unfortunate donut. David burped and observed the rest of the gaping pastries. He liked his lips and charged.
+
+Meanwhile... Robin (also the guinea pig), was leaping across the floor trying to evade from the army of gorillas. Robin twisted and turned, hid, and crawled all over the place, but the apes refused to let the rodent escape. Unfortunately, with one wrong turn Robin met a dead end. He tried to retrace his steps, but found him quickly surrounded by a bunch of angry, sweaty, and hungry primates. Robin gulped and sprinted right under the surprised gorilla’s legs. The gorillas leaped at Robin, but ended up getting all tangled up in a series of hairy arms and legs. Enraged the gorillas thudded after the exhausted guinea pig. Too tired to continue, Robin spun around and jumped on one of the gorillas. “RRRRRRRROOOOOOOOOOOAAAAAAARRRRRR,” roared the gorilla. However, before the gorilla could finish his statement, Robin was clawing and chewing the ape’s face away. The gorilla started hysterically screaming in a high-pitched voice as the guinea pig clawed its face. Another gorilla nearby the screaming ape swung his fist with all his might at Robin. Anticipating the move, Robin leaped out of the way. The gorilla was knocked off its feet. In anger (and extreme pain), the gorilla punched his colleague in return. Soon, the whole army of gorillas was in a massive slug fest. Robin watched calmly on the side as he snacked on some carrot sticks (they were out of celery). 
+
+Meanwhile... Bill, the tin guinea pig, was scurrying away from some killer penguins armed with machetes. Bill soon found himself in Ariana’s salon. The penguins busted down the door and whirled their machetes at the guinea pig. Bill quickly leaped into a pot of unknown and dangerous-looking substance in order to avoid being turned into sushi. Unfortunately, as Bill soon found out, the pot Bill jumped into was Ariana’s boiling extra-strength facial cream. Bill yelped in pain as he shot out of the pot like a rocket, but not before taking a mouthful of the putrid liquid. Now a lot shinier, Bill sat on the floor looking like he was boiled alive. Without hesitation, the rest of the penguins swung their machetes at Bill and they all split in half (the machetes, not Bill). Bill stared at the broken weapons in disbelief. The penguins now angrier all leaped onto the terrified and stunned guinea pig. One of the penguins managed to get a grip on the squirming metal guinea pig and took a big chomp. He got more than he bargained for. In addition to a broken beak, Bill squealed in pain as an oily substance (very similar to urine) squirted from his body. The oil smacked right on the penguin’s face blinding it. The other penguins charged forward, but were met with a similar fate. Bill who was now laughing sprayed his fluid at the flailing penguins. 
+
+“Take that penguins! Try to eat me now!” Bill taunted as he hosed the penguins out the door.
+
+Bill thought to himself, “It must have been that cream. I have super powers now!” However, Bill soon ran out of ammo and the penguins were far from defeated. The oily and ferocious penguins stared at Bill in contempt as they rocketed towards Bill on their slimy bellies. Bill panicked and ran, but not without tripping on a candle. The fire erupted on the floor as it zig-zagged right into the charging tirade of penguins. The highly flammable penguins smacked head on into the fire causing a huge bonfire of roasted penguins. Bill admired his handiwork as he relaxed in a massage chair.
+
+Meanwhile... Fernandi and Ryan the turtle were executing Plan B. The plan was to dress up as ninjas and climb through an air shaft and ambush the enchantress when she was sleeping and force her to release the prisoners. Unfortunately, things started to go wrong from the very beginning. First, Fernandi and Ryan were chased by huge venus man-traps, which Fernandi tried eat (he didn’t learn his lesson apparently), then fell in a pit of booger monsters (not enough adjectives to describe incredibly disgusting), next they were zapped into different animals when they drank the Water of Animal-Shifters (Fernandi was a fish, and Ryan was a rabbit), then they swam through the Swamp of Goo (that took a while), after that they jumped off a cliff to escape 3-eyed wolves, and by the time they got to the front door of the castle, they were pooped (literally as well). 
+
+Ryan the turtle (now a rabbit) exhaled, “Wow that took longer than I expected. On the good side, I’m a swift rabbit now. Not a slow turtle.”
+
+If fish had vocal chords, Fernandi would’ve screamed, “Easy for you to say! I’m $#%*@! trapped in a fishbowl and can’t even move myself.” Instead, Fernandi the fish splashed around in his fishbowl. Suddenly, a big thunder cloud went over the duo animals and zapped them.
+
+Meanwhile...Ariana stared at her crystal ball in anger, “You idiots can’t do anything right around here! What am I going to do? The guinea pigs escaped, Roberto the Wizard is coming, and those nincompoops are right at my doorstep!” Before Ariana could continue her ranting, a black cloud bursted into the room. Ariana stepped back stunned.
+
+It was the Dark Magician. In an ominous tone, he ordered, “Ariana, the Evil Enchantress of the East, your term has expired,” 
+
+“What do you mean?” Ariana stuttered nervously, “I’m doing fine. I can handle them. Please don’t vaporize me.”
+
+“Oh no, on the contrary, I’m giving you a vacation,” the Dark Magician explained, “You see your script has been cut out by the author.”
+
+“You mean the “you-know-what” scene is cut out? What is going on here?” Ariana exclaimed.
+
+“Well, don’t worry; everything is going to work out perfectly. There is just a new era in place... a much more evil era” the Dark Magician stated as he cackled evilly and somewhat dramatically.
+
+*What new era? What is the thundercloud? What on earth is happening to Fernandi’s Adventures?*
+
+---------
+
+## AUTHOR’S NOTE
+
+An author’s note is usually in the beginning of a story, but mine is in the middle. First of all my name is Bob, the author and narrator of Fernandi’s Adventures. I know I haven’t been writing lately and I apologize. (I was on summer break). Anyway, this note is to inform you that there will be some changes in the Era 2 of Fernandi’s Adventures. (By the way, if you have no idea what this email is talking about, go read my story on the document I’ve attached.) This new era will only have moderate changes listed below. Anyhow, I hope you’ve enjoyed my stories and continue reading. Thank you.
+
+- Ariana and Alejondra are no longer present.
+- Robin and Firestar are no longer together. 
+- What? I thought Firestar died! You’ll soon find out.
+- More characters on the way (maybe)
+- Princess Suzzanna is no longer in danger.
+- Fernandi’s and his friends will re-continue their tradition of drinking and fainting.
+
+Lastly I would like to point out that this story is purely fictional. No character in this story is suppose to symbolize, represent, mock, or portray anyone. Seriously.
+
+						Sincerely, 
+							   Bob 
+
+P.S. Hey! Do you want to write your own Fernandi’s Adventures chapter or give me ideas? Email me at [REDACTED] for questions, comments, ideas, or stories. Thank you.

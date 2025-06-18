@@ -1,0 +1,19 @@
+footer {
+	margin-top: 60px;
+}
+.footer-content {
+	max-width: var(--content-max-width);
+	margin: 0 auto;
+	padding-bottom: 80px;
+	text-align: center;
+}
+.footer-content a:hover {
+	background-color: var(--text);
+	color: var(--site-background);
+}
+.footer-content span.divider {
+	margin: 0 1rem;
+}
+.cidnets-credit {
+	font-size: 0.8rem;
+}

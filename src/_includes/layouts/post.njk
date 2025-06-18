@@ -1,0 +1,25 @@
+---
+layout: layouts/base.njk
+templateClass: tmpl-post
+---
+
+<div class="wrapper post">
+	<div class="content">
+		<div class="post-title">
+		{% if title %}
+			<h1 class="title">{{title}}</h1>
+		{% endif %}
+		{% if description %}
+			<h3>{{description}}</h3>
+		{% endif %}
+		{% if date and author %}
+			<h5 class="date">{{date | myDateFormat}} <span>|</span> Written by {{author}}</h5>
+		{% endif %}
+		{% if tags %}
+			<p>{{tags}}</p>
+		{% endif %}
+		<div class="divider"></div>
+		</div>
+		{{ content | safe }}
+	</div>
+</div>

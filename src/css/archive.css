@@ -1,0 +1,109 @@
+.archive.posts-grid {
+	width: 100%;
+	display: grid;
+}
+.archive.posts-grid li {
+	padding: 1rem 0;
+}
+.archive.posts-grid li:not(:last-child) {
+	border-bottom: var(--section-divider);
+}
+.archive.posts-grid li a {
+	display: block;
+	width: 100%;
+	height: 100%;
+	padding: 1rem;
+}
+.archive.posts-grid li a img {
+	width: 100%;
+	object-fit: cover;
+}
+.archive.posts-grid .archive-img-container {
+	width: 30%;
+	height: 100%;
+	overflow: hidden;
+	float: left;
+	margin-right: 1rem;
+}
+
+/* PAGINATION */
+.archive-pagination ol {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.archive-pagination ol li a {
+	display: block;
+	height: 100%;
+	margin: 0 0.25rem;
+}
+.archive-pagination ol li a:not(:has(span)) {
+	padding: 0 0.5rem;
+}
+.archive-pagination ol li a span {
+	vertical-align: middle;
+}
+.archive-pagination ol li a:hover {
+	background-color: var(--text);
+	color: var(--site-background);
+}
+.archive-pagination ol li a.disabled,
+.archive-pagination ol li a.disabled:hover {
+	color: var(--text);
+	background-color: transparent;
+	opacity: 0.6;
+}
+
+/* FEATURED POSTS HOMEPAGE */
+section.featured-posts {
+	text-align: center;
+}
+section.featured-posts .archive-button {
+	padding: 0.5rem 1rem;
+}
+ul.homepage.posts-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); 
+  gap: 1rem; 
+  justify-content: center;
+  list-style: none; 
+  padding: 0;
+}
+
+ul.homepage.posts-grid li:nth-child(1) {
+  grid-column: 1 / 4;
+}
+ul.homepage.posts-grid li:nth-child(n+2) a {
+  aspect-ratio: 1 / 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+ul.homepage.posts-grid li a {
+  display: block;
+  border: var(--border);
+  overflow: hidden;
+  text-align: center;
+  width: 100%;
+  height: 100%; 
+  padding: 1rem;
+}
+ul.homepage.posts-grid li a:hover {
+	background-color: var(--text);
+	color: var(--site-background);
+}
+
+@media screen and (max-width: 576px) {
+	ul.homepage.posts-grid {
+		display: flex;
+		flex-direction: column;
+	}
+	ul.homepage.posts-grid li:nth-child(1) a {
+		aspect-ratio: 1/1;
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+	}
+}
