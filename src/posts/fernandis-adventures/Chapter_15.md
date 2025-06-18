@@ -1,5 +1,5 @@
 ---
-date: 2012-05-22
+date: 2012-05-23
 title: "Chapter 15: Fear"
 tags: ["Era 1"]
 ---

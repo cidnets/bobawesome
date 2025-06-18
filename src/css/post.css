@@ -3,9 +3,31 @@
 	padding: 0.25rem 1rem;
 	max-width: 160px;
 }
+.post .content .post-navigation {
+	display: flex;
+	justify-content: space-between;
+}
+.post .content .post-navigation a {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.post .content .post-navigation a.disabled,
+.post .content .post-navigation a.disabled:hover {
+	color: var(--text);
+	background-color: transparent;
+	opacity: 0.6;
+}
+.post .content .post-navigation a:hover {
+	color: var(--site-background);
+	background-color: var(--text);
+}
 
 .post .content {
-	padding: 3rem 1.5rem;
+	padding: 1rem 1.5rem;
+}
+.post .content .post-content {
+	padding: 3rem 0;
 }
 .post .post-title > * {
 	text-align: center;
@@ -18,8 +40,7 @@
 .post .post-title h3 {
 	margin-bottom: 0.5rem;
 	padding: 0 1rem;
-	background-color: var(--text);
-	color: var(--site-background);
+	color: var(--text);
 	font-family: "Zilla Slab";
 	transform: none;
 }
@@ -62,6 +83,29 @@
 .post .content h5 {
 	text-align: center;
 }
+.post-tags-list {
+  display: flex;
+  flex-wrap: wrap; 
+  gap: 0.5rem; 
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: inline-flex;
+  vertical-align: middle;
+}
+.post-tags-list li a {
+	display: block;
+	padding: 0 1rem;
+	border: var(--border);
+	background-color: var(--text);
+	color: var(--site-background);
+	font-size: 0.9rem;
+}
+.post-tags-list li a:hover {
+	color: var(--text);
+	background-color: var(--site-background);
+}
+
 
 @media screen and (max-width: 576px) {
 	.post .content {

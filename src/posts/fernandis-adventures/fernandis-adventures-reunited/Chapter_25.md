@@ -16,7 +16,7 @@ With that statement, the hooded man stepped toward his loyal follower, lightning
 
 “As you wish,” Alejandri stuttered. Bowing in fear, the serpentine monster slid away without making a noise.
 
- ~~~
+ ---
 
 It was a quiet evening, and Fernando was cheerfully munching on chicken nuggets as he watched his daily dose of Spanish soap operas. Although Fernando barely understood what he was watching, he liked how it looked dramatic. All in all, he was currently very content with life. Lounging on his sofa, his mind drifted off into his old life, how it was so hectic, incredible, dangerous, and spontaneous. Before he could continue his reverie, Fernando realized that he was out of sweet and sour sauce for his scrumptious chicken nuggets. With a sigh, Fernando paused the show, rolled out of his comfy couch, brushed off the stray crumbs on his pants, and trudged towards the kitchen to refill his dipping bowl of sweet and sour sauce.
 

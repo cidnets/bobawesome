@@ -5,21 +5,105 @@ templateClass: tmpl-post
 
 <div class="wrapper post">
 	<div class="content">
-		<div class="post-title">
-		{% if title %}
-			<h1 class="title">{{title}}</h1>
-		{% endif %}
-		{% if description %}
-			<h3>{{description}}</h3>
-		{% endif %}
-		{% if date and author %}
-			<h5 class="date">{{date | myDateFormat}} <span>|</span> Written by {{author}}</h5>
-		{% endif %}
-		{% if tags %}
-			<p>{{tags}}</p>
-		{% endif %}
-		<div class="divider"></div>
+		<div class="post-navigation">
+			{% if nextPost.url %}
+			<a href="{{ nextPost.url }}">
+				<span class="material-symbols-rounded">
+				arrow_left
+				</span>
+				Previous
+			</a>
+			{% else %}
+			<a class="disabled">
+				<span class="material-symbols-rounded">
+				arrow_left
+				</span>
+				Previous
+			</a>
+			{% endif %}
+			{% if prevPost.url %}
+              <a href="{{ prevPost.url }}">
+                Next
+				<span class="material-symbols-rounded">
+				arrow_right
+				</span>
+            {% else %}
+              <a class="disabled">
+                Next
+				<span class="material-symbols-rounded">
+				arrow_right
+				</span>
+            {% endif %}
 		</div>
+		
+		<div class="post-content">
+			<div class="post-title">
+			{% if title %}
+				<h1 class="title">{{title}}</h1>
+			{% endif %}
+			{% if description %}
+				<h3>{{description}}</h3>
+			{% endif %}
+			{% if date and author %}
+				<h5 class="date">{{date | myDateFormat}} <span>|</span> Written by {{author}}</h5>
+			{% endif %}
+		
+		{% if tags %}
+			{% set visible_tags = [] %}
+				{% for tag in tags %}
+					{% if tag != "posts" %}
+						{% set visible_tags = (visible_tags.push(tag), visible_tags) %}
+					{% endif %}
+				{% endfor %}
+
+		{% if visible_tags | length > 0 %}
+			<div class="post-tags-container">
+				<ul class="post-tags-list">
+				{% for tag in visible_tags %}
+					<li>
+						<a href="/tags/{{ tag | slugify }}/" class="post-tag">{{ tag }}</a>
+					</li>
+				{% endfor %}
+				</ul>
+			</div>
+		{% endif %}
+	{% endif %}
+		
+		<div class="divider"></div>
+	</div>
+		
 		{{ content | safe }}
+		</div>
+		
+		<div class="post-navigation">
+			{% if nextPost.url %}
+			<a href="{{ nextPost.url }}">
+				<span class="material-symbols-rounded">
+				arrow_left
+				</span>
+				Previous
+			</a>
+			{% else %}
+			<a class="disabled">
+				<span class="material-symbols-rounded">
+				arrow_left
+				</span>
+				Previous
+			</a>
+			{% endif %}
+			{% if prevPost.url %}
+              <a href="{{ prevPost.url }}">
+                Next
+				<span class="material-symbols-rounded">
+				arrow_right
+				</span>
+            {% else %}
+              <a class="disabled">
+                Next
+				<span class="material-symbols-rounded">
+				arrow_right
+				</span>
+            {% endif %}
+		</div>
 	</div>
 </div>
