@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+  <head data-pagefind-ignore>
 	<meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 
@@ -13,10 +13,19 @@
 <link rel="stylesheet" href="/css/style.css"/>
 	
 <script src="/js/script.js" defer></script>
+
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<div id="search"></div>
+<script src="/pagefind/pagefind-ui.js"></script>
+<script>
+    window.addEventListener('DOMContentLoaded', (event) => {
+        new PagefindUI({ element: "#search" });
+    });
+</script>
   </head>
   
 <body>
-    <div class="navbar" id="navbar">
+    <div class="navbar" id="navbar" data-pagefind-ignore>
 	<a  href="/"  class="logo">
 		<img src="/assets/bobawesome.gif"/>
    </a>
@@ -39,7 +48,7 @@
 </div>
  
  <button onclick="backToTop()" id="back-to-top-bttn" title="Go to top"><i class="fa-solid fa-caret-up"></i><p>Top</p></button>
-
+ 
     
   <main>
     
@@ -146,7 +155,7 @@
     
   </main>
     
-  <footer class="footer">
+  <footer class="footer" data-pagefind-ignore>
 	  
     <div class="footer-content">
     <div class="links">

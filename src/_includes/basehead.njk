@@ -12,3 +12,12 @@
         <link rel="stylesheet" href="{{ pageStyles }}">
     {% endif %}
 <script src="/js/script.js" defer></script>
+
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<div id="search"></div>
+<script src="/pagefind/pagefind-ui.js"></script>
+<script>
+    window.addEventListener('DOMContentLoaded', (event) => {
+        new PagefindUI({ element: "#search" });
+    });
+</script>

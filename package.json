@@ -4,7 +4,8 @@
   "description": "A place for Bob's Awesome stories",
   "main": "index.js",
   "scripts": {
-    "start": "npx eleventy --serve"
+    "start": "npx eleventy --serve",
+	"build": "npx eleventy && npx -y pagefind --site _site"
   },
   "keywords": [],
   "author": "",
