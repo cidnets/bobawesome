@@ -1,5 +1,5 @@
 ---
-date: 2018-01-15
+date: 2018-01-14
 title: "Chapter 1: Surprise"
 
 ---
