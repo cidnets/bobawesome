@@ -27,12 +27,14 @@ templateClass: tmpl-post
 				<span class="material-symbols-rounded">
 				arrow_right
 				</span>
+				</a>
             {% else %}
               <a class="disabled">
                 Next
 				<span class="material-symbols-rounded">
 				arrow_right
 				</span>
+				</a>
             {% endif %}
 		</div>
 		
@@ -56,18 +58,18 @@ templateClass: tmpl-post
 					{% endif %}
 				{% endfor %}
 
-		{% if visible_tags | length > 0 %}
-			<div class="post-tags-container">
-				<ul class="post-tags-list">
-				{% for tag in visible_tags %}
-					<li>
-						<a href="/tags/{{ tag | slugify }}/" class="post-tag">{{ tag }}</a>
-					</li>
-				{% endfor %}
-				</ul>
-			</div>
+			{% if visible_tags | length > 0 %}
+				<div class="post-tags-container">
+					<ul class="post-tags-list">
+						{% for tag in visible_tags %}
+						<li>
+							<a href="/tags/{{ tag | slugify }}/" class="post-tag">{{ tag }}</a>
+						</li>
+						{% endfor %}
+					</ul>
+				</div>
+			{% endif %}
 		{% endif %}
-	{% endif %}
 		
 		<div class="divider"></div>
 	</div>
@@ -97,12 +99,14 @@ templateClass: tmpl-post
 				<span class="material-symbols-rounded">
 				arrow_right
 				</span>
+				</a>
             {% else %}
               <a class="disabled">
                 Next
 				<span class="material-symbols-rounded">
 				arrow_right
 				</span>
+				</a>
             {% endif %}
 		</div>
 	</div>

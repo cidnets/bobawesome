@@ -10,10 +10,10 @@ module.exports = function(eleventyConfig) {
 	eleventyConfig.addWatchTarget("src/css/");
 	// Configure Eleventy
 	
-	//Filters
+//Filters
 	
-	//myDateFormat
-	// FILTER 1: For human-readable dates like "Jun 17, 2025"
+//FILTER 1: myDateFormat
+// FILTER 1-1: For human-readable dates like "Jun 17, 2025"
 	eleventyConfig.addFilter("myDateFormat", (dateObj) => {
  
 	console.log("Date object type:", typeof dateObj, dateObj);
@@ -25,7 +25,7 @@ module.exports = function(eleventyConfig) {
 });
 
 
-// FILTER 2: For machine-readable dates like "2025-06-17"
+// FILTER 1-2: For machine-readable dates like "2025-06-17"
 	eleventyConfig.addFilter("htmlDateString", (dateObj) => {
   const dt = DateTime.fromJSDate(dateObj, { zone: "utc" });
   if (!dt.isValid) {
@@ -35,7 +35,21 @@ module.exports = function(eleventyConfig) {
   return dt.toFormat("yyyy-LL-dd");
 });
 
-	 // Markdownify Filter using Markdown-it
+// FILTER 2: Tags List for Archive
+// This creates a custom collection named "tagList" that we can use in our templates.
+eleventyConfig.addCollection("tagList", function(collectionApi) {
+  const tagSet = new Set();
+  collectionApi.getAll().forEach(item => {
+    (item.data.tags || []).forEach(tag => tagSet.add(tag));
+  });
+
+  // We'll filter out our "posts" meta-tag and then sort the list alphabetically.
+  return [...tagSet].filter(tag => tag !== "posts").sort();
+});
+
+// ... module.exports = function(eleventyConfig) { ... make sure this is all inside the export
+
+// FILTER 3: Markdownify Filter using Markdown-it
   const md = new markdownIt({
     html: true, // This allows HTML tags in your Markdown
   });
@@ -44,7 +58,7 @@ module.exports = function(eleventyConfig) {
     return md.render(content);
   });
   
-  /* Creating the posts collection */
+ /* Creating the posts collection */
     eleventyConfig.addCollection("posts", function (collection) {
 
     const coll = collection
