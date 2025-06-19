@@ -1,3 +1,4 @@
+<div class="content header">
 <div class="navbar" id="navbar" data-pagefind-ignore>
 	<a {% if page.url == '/' %} href="#" {% else %} href="/" {% endif %} class="logo">
 		<img src="/assets/bobawesome.gif"/>
@@ -6,7 +7,7 @@
    <label for="menu-toggle" class="hamburger small-screen-logo">
 		<img src=""/></a>
    </label>
-   <div class="navbar-right">
+   <div class="navbar-middle">
 		<a {% if page.url == '/' %} href="#" {% else %} href="/" {% endif %} class="site-title">
 			<h1>Bob's Awesome Stories</h1>
 			<h5>By Bobawesome</h5>
@@ -17,7 +18,15 @@
 			<a href="/archive" class="{% if page.url == '/archive/' %}active{% endif %}">Archive</a>
 		</div>
    </div>
-   
+</div>
+
+<div class="collapsible-search-container">
+	<div id="search"></div>
+	<button id="search-toggle-btn" class="search-toggle" aria-label="Toggle Search">
+		<span class="material-symbols-rounded">search</span>
+	</button>
+</div>
+
 </div>
  
  <button onclick="backToTop()" id="back-to-top-bttn" title="Go to top"><i class="fa-solid fa-caret-up"></i><p>Top</p></button>

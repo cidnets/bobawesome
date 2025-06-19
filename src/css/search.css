@@ -1,0 +1,131 @@
+:root {
+	--search-height: 35px;
+}
+
+.search.wrapper {
+	min-height: fit-content;
+}
+.search.wrapper .content {
+	position: relative;
+}
+.collapsible-search-container {
+  position: absolute;
+	bottom: 0;
+  right: 0;
+	margin-top: auto;  
+  margin-left: auto;
+  display: flex;  
+  align-items: flex-end;
+  z-index: 1000; 
+}
+
+/* Style for the search icon button */
+.search-toggle {
+  background-color: var(--site-background);
+  border: var(--border);
+  width: var(--search-height);
+  height: var(--search-height);
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* Place it on top of the search bar */
+  order: 2; 
+}
+.collapsible-search-container button.search-toggle:hover {
+	transform: rotate(0deg);
+}
+/* This is where Pagefind builds its UI */
+#search {
+  order: 1; /* Place it before the button in the flex order */
+}
+#search button {
+	border-radius: 0;
+	color: var(--site-background);
+	background-color: var(--text);
+}
+#search button:hover {
+	transform: none;
+	background-color: var(--site-background);
+	color: var(--text);
+}
+/*
+ * THE COLLAPSED STATE (DEFAULT)
+ * We make the Pagefind input invisible and width zero.
+*/
+#search .pagefind-ui__form,
+#search .pagefind-ui__search-input {
+  width: 0;
+  padding: 0;
+  right: -1px;
+  border: none;
+  visibility: hidden;
+  opacity: 0;
+  transition: all 0.4s ease-in-out;
+  background-color: var(--site-background);
+}
+
+/* * THE EXPANDED STATE (WHEN .active CLASS IS ADDED)
+ * We give the input a real width and make it visible.
+*/
+.collapsible-search-container.active #search .pagefind-ui__form,
+.collapsible-search-container.active #search .pagefind-ui__search-input {
+  width: 100%;
+  visibility: visible;
+  opacity: 1;
+}
+.collapsible-search-container.active #search .pagefind-ui__form {
+	height: var(--search-height);
+	border: var(--border);
+}
+.collapsible-search-container.active #search .pagefind-ui__search-input {
+	height: 100%;
+	border-radius: 0;
+	padding: 0 0.5rem;
+}
+form.pagefind-ui__form.svelte-e9gkc3::before {
+	content: none;
+}
+button.pagefind-ui__search-clear.svelte-e9gkc3 {
+	top: 0;
+	right: -1px;
+	height: 100%;
+	padding: 0 0.25rem;
+	border-left: var(--border);
+	border-right: var(--border);
+	border-radius: 0;
+	background-color: var(--text);
+	color: var(--site-background);
+	text-align: center;
+	font-family: var(--font-family);
+}
+button.pagefind-ui__search-clear.svelte-e9gkc3:hover {
+	transform: none;
+	color: var(--text);
+	background-color: var(--site-background);
+}
+.pagefind-ui__drawer.svelte-e9gkc3 {
+	background-color: var(--site-background);
+	border: var(--border);
+    width: 75vw;
+    height: 75vh;
+	max-width: 500px;
+    overflow-y: scroll;
+    position: absolute;
+    right: 0;
+}
+.pagefind-ui__results-area.svelte-e9gkc3 {
+	padding: 1rem;
+}
+.pagefind-ui__result-thumb.svelte-j9e30.svelte-j9e30 {
+	display: none;
+}
+
+@media screen and (max-width: 576px) {
+	.collapsible-search-container {
+		position: absolute;
+		top: 0;
+		bottom: auto;
+		align-items: flex-start;
+	}
+}

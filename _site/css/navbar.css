@@ -2,18 +2,27 @@
 	--back-to-top-bttn: 3rem;
 }
 
+.content.header {
+	padding: 0;
+	border: none;
+	position: relative;
+	bottom: -2px;
+}
+
 .navbar {
+	position: relative;
 	width: var(--content-width);
 	max-width: var(--content-max-width);
-	margin: 24px auto -2px;
-	display: grid;
-	grid-template-columns: auto 1fr;
-	align-items: center;
+	margin: 24px auto 0;
+	display: flex;
+	align-items: flex-end;
 }
 .navbar a:visited {
 	color: var(--text);
 }
-
+.navbar {
+	flex-shrink: 0;
+}
 .logo {
 	height: 100%;
 	display: flex;
@@ -25,7 +34,7 @@
 	margin-top: auto;
 }
 
-.navbar-right {
+.navbar-middle {
 	height: 100%;
 	display: flex;
 	flex-direction: column;

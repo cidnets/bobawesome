@@ -37,7 +37,8 @@ function backToTop() {
 //RANDOM POST BUTTON 
   const randomPostButton = document.getElementById('random-post-button');
 
-  randomPostButton.addEventListener('click', async () => {
+if (randomPostButton) {
+	randomPostButton.addEventListener('click', async () => {
     try {
       // Fetch the list of posts
       const response = await fetch('/posts.json');
@@ -58,4 +59,36 @@ function backToTop() {
       console.error('Oh no, something went wrong!', error);
     }
   });
- 
+}
+  
+// In js/collapsible-search.js
+
+document.addEventListener('DOMContentLoaded', () => {
+  console.log("DOM Loaded. Starting collapsible search script...");
+
+  const searchContainer = document.querySelector('.collapsible-search-container');
+  const searchToggleBtn = document.getElementById('search-toggle-btn');
+
+  // ✨ --- DETECTIVE LOGS! --- ✨
+  // These will tell us if the elements were found.
+  console.log("Looking for searchContainer (.collapsible-search-container):", searchContainer);
+  console.log("Looking for searchToggleBtn (#search-toggle-btn):", searchToggleBtn);
+  // ✨ ----------------------- ✨
+
+  if (searchContainer && searchToggleBtn) {
+    console.log("SUCCESS: Both elements found! Attaching click listener.");
+    searchToggleBtn.addEventListener('click', () => {
+      // (This is your existing click logic)
+      if (searchContainer.classList.contains('active')) {
+        const searchInput = searchContainer.querySelector('.pagefind-ui__search-input');
+        if (searchInput) {
+          searchInput.value = '';
+          searchInput.dispatchEvent(new Event('input', { bubbles: true }));
+        }
+      }
+      searchContainer.classList.toggle('active');
+    });
+  } else {
+    console.error("FAILURE: Search container or toggle button is missing! Click listener NOT attached.");
+  }
+});

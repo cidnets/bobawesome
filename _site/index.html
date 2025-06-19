@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded&icon_names=arrow_left,arrow_right" />
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded&icon_names=arrow_left,arrow_right,search" />
 <script src="https://kit.fontawesome.com/ca052c1b0a.js" crossorigin="anonymous"></script>
 
 <title>Homepage - bobawesome</title>
@@ -15,7 +15,6 @@
 <script src="/js/script.js" defer></script>
 
 <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
-<div id="search"></div>
 <script src="/pagefind/pagefind-ui.js"></script>
 <script>
     window.addEventListener('DOMContentLoaded', (event) => {
@@ -25,7 +24,8 @@
   </head>
   
 <body>
-    <div class="navbar" id="navbar" data-pagefind-ignore>
+    <div class="content header">
+<div class="navbar" id="navbar" data-pagefind-ignore>
 	<a  href="#"  class="logo">
 		<img src="/assets/bobawesome.gif"/>
    </a>
@@ -33,7 +33,7 @@
    <label for="menu-toggle" class="hamburger small-screen-logo">
 		<img src=""/></a>
    </label>
-   <div class="navbar-right">
+   <div class="navbar-middle">
 		<a  href="#"  class="site-title">
 			<h1>Bob's Awesome Stories</h1>
 			<h5>By Bobawesome</h5>
@@ -44,7 +44,15 @@
 			<a href="/archive" class="">Archive</a>
 		</div>
    </div>
-   
+</div>
+
+<div class="collapsible-search-container">
+	<div id="search"></div>
+	<button id="search-toggle-btn" class="search-toggle" aria-label="Toggle Search">
+		<span class="material-symbols-rounded">search</span>
+	</button>
+</div>
+
 </div>
  
  <button onclick="backToTop()" id="back-to-top-bttn" title="Go to top"><i class="fa-solid fa-caret-up"></i><p>Top</p></button>
