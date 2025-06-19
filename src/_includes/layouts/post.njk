@@ -44,7 +44,7 @@ templateClass: tmpl-post
 				<h3>{{description}}</h3>
 			{% endif %}
 			{% if title %}
-				<h1 class="title" data-pagefind-meta>{{title}}</h1>
+				<h1 class="title" data-pagefind-meta="title">{{title}}</h1>
 			{% endif %}
 			{% if date and author %}
 				<p class="date">{{date | myDateFormat}} <span>|</span> Written by {{author}}</p>
