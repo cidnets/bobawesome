@@ -4,8 +4,8 @@ templateClass: tmpl-post
 ---
 
 <div class="wrapper post">
-	<div class="content">
-		<div class="post-navigation">
+	<div class="content" data-pagefind-body>
+		<div class="post-navigation" data-pagefind-ignore>
 			{% if nextPost.url %}
 			<a href="{{ nextPost.url }}">
 				<span class="material-symbols-rounded">
@@ -44,7 +44,7 @@ templateClass: tmpl-post
 				<h3>{{description}}</h3>
 			{% endif %}
 			{% if title %}
-				<h1 class="title">{{title}}</h1>
+				<h1 class="title" data-pagefind-meta>{{title}}</h1>
 			{% endif %}
 			{% if date and author %}
 				<p class="date">{{date | myDateFormat}} <span>|</span> Written by {{author}}</p>
@@ -77,7 +77,7 @@ templateClass: tmpl-post
 		{{ content | safe }}
 		</div>
 		
-		<div class="post-navigation">
+		<div class="post-navigation" data-pagefind-ignore>
 			{% if nextPost.url %}
 			<a href="{{ nextPost.url }}">
 				<span class="material-symbols-rounded">
